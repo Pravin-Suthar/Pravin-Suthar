@@ -1,4 +1,13 @@
-## Hi there 👋
+Hey there 👋
+
+Nothing fancy here as making this readme file takes (o)2 time
+
+SDE-I at Mitt Arv Technologies Pte Ltd.
+
+Visit my web : https://pravin-portfolio-two.vercel.app/
+
+LinkedIn : https://www.linkedin.com/in/pravinsuthar/
+
 
 <!--
 **Pravin-Suthar/Pravin-Suthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
