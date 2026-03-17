@@ -1,10 +1,5 @@
 # Pravin Suthar
 
-**SDE-I @ [OpsLyft](https://opslyft.com/)** · Building cloud cost intelligence at scale
-
-Previously **Founding Engineer @ [Mitt Arv](https://www.mittarv.com/)** — took backend from zero to production
-
----
 
 ### Currently Working On
 - Real-time Kubernetes cost allocation and FinOps tooling
